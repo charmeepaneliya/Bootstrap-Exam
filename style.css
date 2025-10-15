@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.c-1{
+    border-left: 10px solid;
+    border-left-color:orange;
+    border-right: 10px solid;
+    border-right-color:red;
+    border-top: 10px solid;
+    border-top-color:orange;
+    border-bottom: 10px solid red;
+    opacity: 10px;
+    width: 77%;
+}
+
+
+#hero .hero-img{
+    border: 1px solid black;
+    border-width: 5px !important;
+   border-top-left-radius: 250px 250px;
+   border-top-right-radius: 200px 200px;
+   border-bottom-left-radius: 250px 250px;
+   
+}
+#hero .hero-border{
+    border: 10px solid red;
+    padding: 30px;
+    width: 500px;
+
+     border-top-left-radius: 250px 250px;
+   /* border-top-right-radius: 200px 200px; */
+   border-bottom-left-radius: 250px 250px;
+}
