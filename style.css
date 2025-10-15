@@ -14,6 +14,8 @@
     border-bottom: 10px solid red;
     opacity: 10px;
     width: 77%;
+    
+    box-shadow: rgba(0, 0, 0, 0.377) 0px 54px 55px, rgba(0, 0, 0, 0.295) 0px -12px 30px, rgba(0, 0, 0, 0.185) 0px 4px 6px, rgba(0, 0, 0, 0.24) 0px 12px 13px, rgba(0, 0, 0, 0.219) 0px -3px 5px;
 }
 
 
